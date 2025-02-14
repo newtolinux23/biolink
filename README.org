@@ -3,6 +3,8 @@
 #+DATE: [2025-02-14]
 #+OPTIONS: toc:nil
 
+[[https://i.ibb.co/Hf1bs26P/linkbio.png]]
+
 * Overview
 This project is a personal biolink page for Robert Alicea, designed to provide easy access to important online links, social media, and contact information. The page is built using HTML and CSS for a simple yet effective web presence.
 
@@ -49,10 +51,10 @@ git push origin main
 
 * Contact
 For inquiries, reach out via:
-- **Website**: [[https://www.idoneitatemlife.com][idoneitatemlife.com]]
-- **Phone**: [[tel:9145008407][+1 (914) 500-8407]]
-- **WhatsApp**: [[https://wa.link/f2vhlv][Message on WhatsApp]]
-- **Email**: [[mailto:info@idoneitatemlife.com][info@idoneitatemlife.com]]
+- *Website*: [[https://www.idoneitatemlife.com][idoneitatemlife.com]]
+- *Phone*: [[tel:9145008407][+1 (914) 500-8407]]
+- *WhatsApp*: [[https://wa.link/f2vhlv][Message on WhatsApp]]
+- *Email*: [[mailto:info@idoneitatemlife.com][info@idoneitatemlife.com]]
 
 * License
 This project is open-source and available under the MIT License.
