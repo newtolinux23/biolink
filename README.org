@@ -1,0 +1,58 @@
+#+TITLE: Biolink Project
+#+AUTHOR: Robert Alicea
+#+DATE: [2025-02-14]
+#+OPTIONS: toc:nil
+
+* Overview
+This project is a personal biolink page for Robert Alicea, designed to provide easy access to important online links, social media, and contact information. The page is built using HTML and CSS for a simple yet effective web presence.
+
+* Features
+- Responsive design for mobile and desktop users.
+- Personal branding with a profile picture and name animation.
+- Links to website, phone, WhatsApp, and informative health-related videos.
+- A clean and minimalistic UI with smooth animations.
+- Open Graph metadata for better sharing on social media.
+
+* Project Structure
+#+BEGIN_SRC
+biolink/
+├── css/
+│   ├── style.css
+├── images/
+│   ├── profile.jpg
+├── index.html
+└── README.org
+#+END_SRC
+
+* Installation & Usage
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   #+BEGIN_SRC bash
+git clone git@github.com:newtolinux23/biolink.git
+cd biolink
+   #+END_SRC
+
+2. Open the =index.html= file in a web browser.
+
+* Deployment
+To deploy this page online, you can use GitHub Pages:
+
+1. Commit and push your changes:
+   #+BEGIN_SRC bash
+git add .
+git commit -m "Initial commit"
+git push origin main
+   #+END_SRC
+
+2. Enable GitHub Pages in the repository settings, and set the branch to =main=.
+
+* Contact
+For inquiries, reach out via:
+- **Website**: [[https://www.idoneitatemlife.com][idoneitatemlife.com]]
+- **Phone**: [[tel:9145008407][+1 (914) 500-8407]]
+- **WhatsApp**: [[https://wa.link/f2vhlv][Message on WhatsApp]]
+- **Email**: [[mailto:info@idoneitatemlife.com][info@idoneitatemlife.com]]
+
+* License
+This project is open-source and available under the MIT License.
